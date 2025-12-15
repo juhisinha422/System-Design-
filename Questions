@@ -1,0 +1,34 @@
+The Only "System Design" Cheatsheet YOU NEED !!
+========================================
+
+I have compiled 50 Most Asked "System Design" Interview questions along with the companies where they were asked. Here are some of them -
+
+1) Design a distributed caching and monitoring system.
+Company's asked - Google, Meta, Amazon, eBay, Datadog, Atlassian
+
+2) Design a distributed Stream Processing System like Kafka.
+Company's asked - Amazon, Microsoft, Wise, COnfluent
+
+3) Design Dropbox or Google Drive
+Company's Asked - Microsoft, Meta, Qualtrics
+
+4) Design an ETA Service and Location Sharing between Driver and Rider
+Company's Asked - Uber, Lyft
+
+5) Design a Hotel Booking System: Room Availability, Reservation, Booking
+Company's asked - Amazon, Booking dot com
+
+6) Design a Price Alert System for Amazon (or other Stock Prices)
+Company's asked -  Meta, Bloomberg, Coinbase, Binance
+
+7)  Design a System to Monitor the Health of a Kubernetes Cluster
+Company's Asked - Uber, Lacework, Amazon, Google
+
+8) Design a distributed Botnet
+Company's Asked - Meta, Lyft
+
+9) Design a live comment feature for Instagram/Meta.
+Company's Asked - Meta, Youtube
+
+10) Design Whatsapp/Telegram.
+Company's Asked - Amazon, Microsoft, Oracle, Apple
