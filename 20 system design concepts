@@ -1,0 +1,43 @@
+20 system design concepts every DevOps engineer should know
+
+1. Load balancing: distributing traffic is easy, doing it correctly under failure is not
+
+2. Horizontal vs vertical scaling: adding machines vs upgrading machines
+
+3. Stateless vs stateful services: scaling depends on this decision
+
+4. Caching: fastest request is the one you never make
+
+5. Cache invalidation: the reason your "fast system" shows wrong data
+
+6. Consistency vs availability (CAP): you can't have everything
+
+7. Eventual consistency: things will be correct, just not immediately
+
+8. Idempotency: retrying safely without breaking things
+
+9. Backpressure: when your system says "slow down"
+
+10. Queueing systems: absorbing spikes instead of crashing
+
+11. Rate limiting: protecting your system from users and yourself
+
+12. Circuit breaker: failing fast instead of failing everywhere
+
+13. Retry strategies: blind retries can take your system down
+
+14. Timeouts: waiting forever is worse than failing early
+
+15. Service discovery: how services find each other dynamically
+
+16. Observability: logs, metrics, traces and not just dashboards
+
+17. Fault isolation: one failure shouldn't take everything down
+
+18. Data partitioning: scaling databases without killing performance
+
+19. Replication: copies help, until they lag or diverge
+
+20. Graceful degradation: partial service > total outage
+
+If you want to grow in DevOps, think in systems - not just tools.
